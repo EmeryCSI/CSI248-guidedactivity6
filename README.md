@@ -8,7 +8,7 @@
 
 This repository is a part of CSI-248 at Renton Technical College.
 
-## Guided Activity 5 - If the images are not loading use the word doc in this repository GA5_instructions.docx
+## Guided Activity 6
 
 ## Setup Expo - If you have already done this in class you may skip this step
 
